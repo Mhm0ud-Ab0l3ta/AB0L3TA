@@ -1,72 +1,79 @@
-<div align="center">
+<!-- 🕷️ VENOM SPIDER // DFIR • THREAT HUNTING • CTF -->
 
-  <img src="https://media.tenor.com/E8b3C1vLgB8AAAAC/spiderman-black-suit.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #ffffff;" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=VENOM%20SPIDER&fontAlign=50&fontAlignY=38&desc=DFIR%20%7C%20Threat%20Hunting%20%7C%20CTF&descAlign=50&descAlignY=62&color=0:070b07,100:0f2a12" />
+</p>
 
-  <h1 style="font-size: 50px; color: #ffffff; text-transform: uppercase; letter-spacing: 5px; margin-top: -10px;">
-    Mhm0ud-Ab0l3ta
-  </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-DFIR%20%2F%20Threat%20Hunter-0f2a12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CTF-Player-0f2a12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Incident%20Response%20%26%20Forensics-0f2a12?style=for-the-badge" />
+</p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=THE+SUIT...+IT+FEELS+GOOD.;THREAT+HUNTER.;DIGITAL+FORENSICS.;WE+ARE+VENOM." alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/Mhm0ud-Ab0l3ta">
+    <img src="https://img.shields.io/badge/GitHub-Mhm0ud--Ab0l3ta-18ff6d?style=flat-square&logo=github&logoColor=18ff6d&labelColor=070b07" />
   </a>
+</p>
 
-  <br/><br/>
+---
 
-  <p>
-    <a href="https://github.com/Mhm0ud-Ab0l3ta">
-      <img src="https://img.shields.io/badge/SYMBIOTE-HOST-000000?style=for-the-badge&logo=github&logoColor=white&border=1px_solid_white" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/STATUS-ROGUE-000000?style=for-the-badge&logo=kali-linux&logoColor=white&border=1px_solid_white" />
-    </a>
-  </p>
+## 🕸️ WEB // SIGNAL
+> **Finding patterns in the chaos.**  
+> Turning telemetry into evidence, detections, and clean writeups.
 
-</div>
+- 🔎 DFIR: triage → artifacts → timeline → root cause
+- 🧠 Threat Hunting: hypothesis-led hunts + IOC validation
+- 🧩 CTF: DFIR / Blue Team / OSINT / Web / RE (as needed)
 
-<br />
+---
 
-<table align="center" border="0" cellpadding="15" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #333;">
-      <h3 align="center" style="color: #ffffff; letter-spacing: 2px;">🕷️ ANALYSIS</h3>
-      <div align="center">
-         <img src="https://img.shields.io/badge/DATA-SQL-black?style=flat-square&logo=postgresql&logoColor=white"/>
-         <img src="https://img.shields.io/badge/VISUAL-POWERBI-black?style=flat-square&logo=powerbi&logoColor=white"/>
-      </div>
-      <br />
-      <p align="center" style="color: #cccccc;">
-        <i>"Finding patterns in the chaos."</i><br/>
-        Turning raw logs into clear, actionable intelligence.
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #333;">
-      <h3 align="center" style="color: #ffffff; letter-spacing: 2px;">🦠 INFECTION</h3>
-      <div align="center">
-         <img src="https://img.shields.io/badge/MALWARE-ASSEMBLY-black?style=flat-square&logo=c&logoColor=white"/>
-         <img src="https://img.shields.io/badge/DEBUG-GHIDRA-black?style=flat-square&logo=unrealengine&logoColor=white"/>
-      </div>
-      <br />
-      <p align="center" style="color: #cccccc;">
-        <i>"Hunting what hides in the dark."</i><br/>
-        Reverse engineering threats and memory forensics.
-      </p>
-    </td>
-  </tr>
-</table>
+## 🧪 VENOM // INFECTION
+> **Hunting what hides in memory and persistence.**
 
-<br/>
+**Artifacts I live in**
+- Windows: EVTX, Registry, Prefetch, Amcache, Shimcache
+- Memory: Volatility3, YARA scanning, injected modules
+- Network: PCAP, Zeek, DNS/HTTP analysis, exfil traces
+- Malware: static/dynamic basics, config extraction, IOCs
 
-<div align="center">
-  <h3 style="color: #ffffff; letter-spacing: 3px;">/// ARSENAL ///</h3>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,windows,c,cpp,assembly,sql,postgres,git,docker&theme=dark" />
-</div>
+---
 
-<br/>
+## 🧰 ARSENAL
+<p>
+  <img src="https://img.shields.io/badge/Volatility3-070b07?style=flat-square&logoColor=18ff6d&labelColor=0f2a12&color=18ff6d" />
+  <img src="https://img.shields.io/badge/Sigma-070b07?style=flat-square&logoColor=18ff6d&labelColor=0f2a12&color=18ff6d" />
+  <img src="https://img.shields.io/badge/YARA-070b07?style=flat-square&logoColor=18ff6d&labelColor=0f2a12&color=18ff6d" />
+  <img src="https://img.shields.io/badge/Wireshark-070b07?style=flat-square&logoColor=18ff6d&labelColor=0f2a12&color=18ff6d" />
+  <img src="https://img.shields.io/badge/Zeek-070b07?style=flat-square&logoColor=18ff6d&labelColor=0f2a12&color=18ff6d" />
+  <img src="https://img.shields.io/badge/KQL%20%2F%20ELK-070b07?style=flat-square&logoColor=18ff6d&labelColor=0f2a12&color=18ff6d" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhm0ud-Ab0l3ta&show_icons=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_border=false&border_color=333333" alt="Stats" />
-</div>
+**Builds**
+- 🧾 Detection rules (Sigma / KQL)
+- 🕷️ DFIR notes + cheat sheets
+- 🧬 Parsers & extractors (CTF + real cases)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=100&section=footer" width="100%" />
-</div>
+---
+
+## 📡 STATS // FEED
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mhm0ud-Ab0l3ta&show_icons=true&hide_border=true&bg_color=00000000&title_color=18ff6d&text_color=b9c2b9&icon_color=18ff6d" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Mhm0ud-Ab0l3ta&hide_border=true&background=00000000&ring=18ff6d&fire=18ff6d&currStreakLabel=18ff6d&sideLabels=b9c2b9&dates=b9c2b9&currStreakNum=b9c2b9&sideNums=b9c2b9" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mhm0ud-Ab0l3ta&no-frame=true&theme=onestar&margin-w=10" />
+</p>
+
+---
+
+## 🧷 CONTACT // TRACE
+- GitHub: https://github.com/Mhm0ud-Ab0l3ta
+- Add your Discord / X / Email here
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mhm0ud-Ab0l3ta/Mhm0ud-Ab0l3ta/output/github-contribution-grid-snake-dark.svg" alt="venom trail" />
+</p>
