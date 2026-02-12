@@ -1,52 +1,54 @@
-# AB0L3TA
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,100:000000&height=250&section=header&text=Mhm0ud-Ab0l3ta&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Threat%20Hunter%20%7C%20DFIR&descSize=20&descAlignY=60&descAlign=50" alt="Header" width="100%" />
+  <img src="https://media.tenor.com/E8b3C1vLgB8AAAAC/spiderman-black-suit.gif" width="100%" style="border-radius: 0px; border-bottom: 4px solid #ffffff;" />
+
+  <h1 style="font-size: 50px; color: #ffffff; text-transform: uppercase; letter-spacing: 5px; margin-top: -10px;">
+    Mhm0ud-Ab0l3ta
+  </h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=THE+SUIT...+IT+FEELS+GOOD.;THREAT+HUNTER.;DIGITAL+FORENSICS.;WE+ARE+VENOM." alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
 
   <p>
     <a href="https://github.com/Mhm0ud-Ab0l3ta">
-      <img src="https://img.shields.io/badge/Symbiote-Host-000000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/SYMBIOTE-HOST-000000?style=for-the-badge&logo=github&logoColor=white&border=1px_solid_white" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Threat-Hunter-E62429?style=for-the-badge&logo=kali-linux&logoColor=white" />
-    </a>
-     <a href="#">
-      <img src="https://img.shields.io/badge/CTF-Player-204B96?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+      <img src="https://img.shields.io/badge/STATUS-ROGUE-000000?style=for-the-badge&logo=kali-linux&logoColor=white&border=1px_solid_white" />
     </a>
   </p>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E62429&center=true&vCenter=true&width=435&lines=With+great+power+comes+great+data.;Analyze.+Hunt.+Defend.;We+are+Venom." alt="Typing SVG" />
-  </a>
 
 </div>
 
 <br />
 
-<table align="center" border="0" cellpadding="10">
+<table align="center" border="0" cellpadding="15" cellspacing="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #E62429;">🕷️ The Analyst (Day)</h3>
+    <td width="50%" valign="top" style="border: 1px solid #333;">
+      <h3 align="center" style="color: #ffffff; letter-spacing: 2px;">🕷️ ANALYSIS</h3>
       <div align="center">
-         <img src="https://img.shields.io/badge/Focus-Data_Visualization-204B96?style=flat-square"/>
-         <img src="https://img.shields.io/badge/Tools-PowerBI_&_SQL-E62429?style=flat-square"/>
+         <img src="https://img.shields.io/badge/DATA-SQL-black?style=flat-square&logo=postgresql&logoColor=white"/>
+         <img src="https://img.shields.io/badge/VISUAL-POWERBI-black?style=flat-square&logo=powerbi&logoColor=white"/>
       </div>
       <br />
-      <p align="center">
-        Specializing in transforming raw logs into actionable intelligence. 
-        Expert in <b>SQL optimization</b> and <b>Data Viz</b>.
+      <p align="center" style="color: #cccccc;">
+        <i>"Finding patterns in the chaos."</i><br/>
+        Turning raw logs into clear, actionable intelligence.
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #000000;">🦠 The Hunter (Night)</h3>
+    <td width="50%" valign="top" style="border: 1px solid #333;">
+      <h3 align="center" style="color: #ffffff; letter-spacing: 2px;">🦠 INFECTION</h3>
       <div align="center">
-         <img src="https://img.shields.io/badge/Focus-Malware_Analysis-black?style=flat-square"/>
-         <img src="https://img.shields.io/badge/Tools-Assembly_&_Debugger-4a0073?style=flat-square"/>
+         <img src="https://img.shields.io/badge/MALWARE-ASSEMBLY-black?style=flat-square&logo=c&logoColor=white"/>
+         <img src="https://img.shields.io/badge/DEBUG-GHIDRA-black?style=flat-square&logo=unrealengine&logoColor=white"/>
       </div>
       <br />
-      <p align="center">
-        Hunting threats in memory and disk. 
-        Deep diving into <b>Windows Forensics</b>, <b>Reverse Engineering</b>, and <b>CTFs</b>.
+      <p align="center" style="color: #cccccc;">
+        <i>"Hunting what hides in the dark."</i><br/>
+        Reverse engineering threats and memory forensics.
       </p>
     </td>
   </tr>
@@ -55,33 +57,16 @@
 <br/>
 
 <div align="center">
-  <h3 style="color: #000000;">💻 Symbiote Arsenal</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,windows,c,cpp,assembly,sql,postgres,powerbi,git,docker&theme=dark" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ghidra-black?style=flat&logo=unrealengine&logoColor=red" />
-    <img src="https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit&logoColor=white" />
-  </p>
+  <h3 style="color: #ffffff; letter-spacing: 3px;">/// ARSENAL ///</h3>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,windows,c,cpp,assembly,sql,postgres,git,docker&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhm0ud-Ab0l3ta&layout=compact&bg_color=ffffff&title_color=E62429&text_color=204B96&icon_color=E62429&hide_border=true" alt="Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mhm0ud-Ab0l3ta&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=E62429&hide_border=true&count_private=true" alt="Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhm0ud-Ab0l3ta&show_icons=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_border=false&border_color=333333" alt="Stats" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E62429&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=100&section=footer" width="100%" />
 </div>
