@@ -1,28 +1,19 @@
-<!-- =========================
-SPIDER-MAN 🕷️ x VENOM 🖤
-GitHub Profile README
-Replace YOUR_USERNAME + links
-========================= -->
+<!-- Mahmoud Mostafa Abu AL Ata | @Mhm0ud-Ab0l3ta -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=210&text=YOUR%20NAME&fontSize=52&color=0:111111,100:e50914&fontColor=ffffff&desc=Spider%20Skills%20%7C%20Symbiote%20Focus&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,30&section=header" width="100%"/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=E50914&center=true&vCenter=true&width=520&lines=Friendly+Neighborhood+Builder+%F0%9F%95%B7%EF%B8%8F;CTF+%E2%80%A2+Web+Security+%E2%80%A2+Automation;Symbiote+Mode%3A+Deep+Work+%F0%9F%96%A4;Ship+clean%2C+fast%2C+real+projects" />
-</p>
+```
+ ███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗ ██████╗ ██╗   ██╗██████╗ 
+ ████╗ ████║██╔══██╗██║  ██║████╗ ████║██╔═══██╗██║   ██║██╔══██╗
+ ██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║   ██║██║  ██║
+ ██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║   ██║██║  ██║
+ ██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██████╔╝
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ 
+```
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Explore-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-Collection-e50914?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/issues">
-    <img src="https://img.shields.io/badge/Issues-Hunt-0b0b0b?style=for-the-badge&logo=gitbook&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Security+Researcher+%2F+CTF+Player;DFIR+%C2%B7+Reverse+Engineering+%C2%B7+Web+Exploitation;I+break+things+to+understand+them;Then+I+build+better+ones." />
 
 </div>
 
@@ -30,32 +21,34 @@ Replace YOUR_USERNAME + links
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-## 🕷️ Spider-Side
-**Fast, clean, reliable.**  
-- 🧰 Building: **tools, automations, scripts**
-- 🔍 Interests: **security, DFIR, reverse, web**
-- ⚡ Style: **minimal UI • strong DX • shipping**
+### `> whoami`
 
-**Now:**
-- ✅ Working on: **[your current project]**
-- 🎯 Goal: **[your goal]**
-- 📚 Learning: **[what you're learning]**
+```yaml
+name:     Mahmoud Mostafa Abu AL Ata
+handle:   @Mhm0ud-Ab0l3ta
+location: Cairo, EG
+status:   open to opportunities
+
+focus:
+  - Offensive Security & Penetration Testing
+  - Digital Forensics & Incident Response
+  - CTF Competitions & Research
+  - Security Tooling & Automation
+
+currently:
+  building:  "[your project]"
+  learning:  "[what you're studying]"
+  reading:   "[book or paper]"
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-## 🖤 Venom-Side
-**Deep focus, hard problems.**  
-- 🧪 Research: **[topic / thesis / lab]**
-- 🛡️ Threat hunting: **logs • pcap • memory**
-- 🕸️ Favorite tasks: **exploit chains, weird bugs**
+### `> stats --global`
 
-**Rules:**
-- 🧠 Think first  
-- 🧼 Keep it clean  
-- 🕷️ Ship with intent
+<img src="https://github-readme-stats.vercel.app/api?username=Mhm0ud-Ab0l3ta&show_icons=true&hide_border=true&title_color=00ff88&icon_color=00b8ff&text_color=aaaaaa&bg_color=0d1117&hide=contribs" />
 
 </td>
 </tr>
@@ -63,90 +56,104 @@ Replace YOUR_USERNAME + links
 
 ---
 
-<div align="center">
+### `> stack --list`
 
-### 🧬 Dual-Mode Switch
-<img src="https://img.shields.io/badge/Spidey%20Sense-ACTIVE-e50914?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Symbiote%20Mode-ENGAGED-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Shooters-READY-ffffff?style=for-the-badge&logoColor=111111" />
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=00ff88)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00b8ff)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00b8ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00b8ff)
 
----
+**Security**
 
-## 🧩 Skill Grid (pick what fits you)
-<div align="center">
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=portswigger&logoColor=00ff88)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff88)
+![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=flat-square&logo=nsa&logoColor=00b8ff)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00b8ff)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=00b8ff)
 
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-e50914?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-0b0b0b?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-e50914?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-0b0b0b?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/CTF-e50914?style=for-the-badge&logo=protonvpn&logoColor=white" />
+**Infrastructure**
 
-</div>
-
----
-
-## 🧨 Featured Drops (pin these)
-> Make 3–6 “pinned repos” match these cards.
-
-- 🕸️ **Web Exploit Notes** — payloads, bypasses, patterns — `[repo link]`
-- 🖤 **DFIR Toolkit** — triage scripts, parsers, IOC helpers — `[repo link]`
-- 🧪 **Research Lab** — experiments + writeups — `[repo link]`
-- ⚡ **Automation Pack** — bots, scrapers, workflows — `[repo link]`
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=aaaaaa)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=aaaaaa)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=aaaaaa)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kali-linux&logoColor=aaaaaa)
 
 ---
 
-## 📌 Latest Writeups
-- **YYYY-MM-DD** — *Title* — [link]
-- **YYYY-MM-DD** — *Title* — [link]
-- **YYYY-MM-DD** — *Title* — [link]
+### `> cat domains.txt`
+
+```
+web exploitation     ████████████████████  expert
+reverse engineering  ██████████████░░░░░░  solid
+digital forensics    ██████████████░░░░░░  solid
+threat hunting       ████████████░░░░░░░░  proficient
+binary exploitation  ██████████░░░░░░░░░░  growing
+```
+
+---
+
+### `> ls ~/projects --featured`
+
+<!-- Replace these with your actual pinned repos -->
+
+| repo | description | lang | stars |
+|------|-------------|------|-------|
+| [web-exploit-notes](https://github.com/Mhm0ud-Ab0l3ta/web-exploit-notes) | Payloads, bypass patterns, and writeups from CTF + bug bounty | Python | ★ |
+| [dfir-toolkit](https://github.com/Mhm0ud-Ab0l3ta/dfir-toolkit) | Triage scripts, memory parsers, and IOC helpers | Bash | ★ |
+| [ctf-lab](https://github.com/Mhm0ud-Ab0l3ta/ctf-lab) | Research sandbox — exploit chains, reversing notes | Python | ★ |
+| [automation-pack](https://github.com/Mhm0ud-Ab0l3ta/automation-pack) | Recon and reporting automation tooling | Go | ★ |
+
+---
+
+### `> tail -n 5 writeups.log`
+
+```
+[YYYY-MM-DD]  Title of Writeup ........ link
+[YYYY-MM-DD]  Title of Writeup ........ link
+[YYYY-MM-DD]  Title of Writeup ........ link
+[YYYY-MM-DD]  Title of Writeup ........ link
+[YYYY-MM-DD]  Title of Writeup ........ link
+```
 
 <details>
-  <summary>🗂️ Archive</summary>
+<summary><code>> cat writeups.log --all</code></summary>
+<br>
 
-- **YYYY-MM-DD** — *Title* — link  
-- **YYYY-MM-DD** — *Title* — link  
+```
+[YYYY-MM-DD]  Archived Writeup ........ link
+[YYYY-MM-DD]  Archived Writeup ........ link
+```
 
 </details>
 
 ---
 
+### `> streak`
+
 <div align="center">
 
-## 📈 Stats
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=e50914&icon_color=e50914&text_color=ffffff&bg_color=0b0b0b" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0b0b0b&ring=e50914&fire=e50914&currStreakLabel=ffffff&sideLabels=ffffff&dates=bbbbbb" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&no-frame=true&theme=onestar&margin-w=8&margin-h=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhm0ud-Ab0l3ta&hide_border=true&background=0d1117&ring=00ff88&fire=00b8ff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" />
 
 </div>
 
 ---
 
-## 🕸️ Contact
+### `> contact --reach-out`
+
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-e50914?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:mahmoudmostafa78900@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b8ff)](https://www.linkedin.com/in/mahmoud-mostafa-b48a48274)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,100:e50914&section=footer" />
-<sub>🕷️ built like Spider-Man. powered like Venom.</sub>
+
+<sub><code>built with intent · ships clean · breaks things on purpose</code></sub>
+
 </div>
