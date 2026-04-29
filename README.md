@@ -32,10 +32,10 @@ location: Cairo, EG
 status:   open to opportunities
 
 focus:
-  - Offensive Security & Penetration Testing
-  - Digital Forensics & Incident Response
-  - CTF Competitions & Research
-  - Security Tooling & Automation
+  - Digital Forensics & Incident Response (DFIR)
+  - SOC Analysis & Threat Detection
+  - Log Analysis · PCAP · Memory Forensics
+  - CTF Competitions (Blue Team / Forensics)
 
 currently:
   building:  "[your project]"
@@ -58,39 +58,38 @@ currently:
 
 ### `> stack --list`
 
-**Languages**
+**Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=00ff88)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00b8ff)
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00b8ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00b8ff)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=00b8ff)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b8ff)
 
-**Security**
+**DFIR & SOC Tools**
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=portswigger&logoColor=00ff88)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff88)
-![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=flat-square&logo=nsa&logoColor=00b8ff)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00b8ff)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=00b8ff)
+![Splunk](https://img.shields.io/badge/Splunk-0d1117?style=flat-square&logo=splunk&logoColor=00ff88)
+![Volatility](https://img.shields.io/badge/Volatility-0d1117?style=flat-square&logo=linux&logoColor=00b8ff)
+![Autopsy](https://img.shields.io/badge/Autopsy-0d1117?style=flat-square&logo=files&logoColor=00b8ff)
+![Elastic](https://img.shields.io/badge/Elastic_SIEM-0d1117?style=flat-square&logo=elastic&logoColor=00b8ff)
 
 **Infrastructure**
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=aaaaaa)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows&logoColor=aaaaaa)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=aaaaaa)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=aaaaaa)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kali-linux&logoColor=aaaaaa)
 
 ---
 
 ### `> cat domains.txt`
 
 ```
-web exploitation     ████████████████████  expert
-reverse engineering  ██████████████░░░░░░  solid
-digital forensics    ██████████████░░░░░░  solid
-threat hunting       ████████████░░░░░░░░  proficient
-binary exploitation  ██████████░░░░░░░░░░  growing
+log analysis & SIEM      ████████████████████  expert
+network forensics        ██████████████████░░  expert
+memory forensics         ████████████████░░░░  solid
+malware triage           ██████████████░░░░░░  solid
+threat detection         ████████████░░░░░░░░  proficient
 ```
 
 ---
@@ -101,21 +100,23 @@ binary exploitation  ██████████░░░░░░░░░�
 
 | repo | description | lang | stars |
 |------|-------------|------|-------|
-| [web-exploit-notes](https://github.com/Mhm0ud-Ab0l3ta/web-exploit-notes) | Payloads, bypass patterns, and writeups from CTF + bug bounty | Python | ★ |
-| [dfir-toolkit](https://github.com/Mhm0ud-Ab0l3ta/dfir-toolkit) | Triage scripts, memory parsers, and IOC helpers | Bash | ★ |
-| [ctf-lab](https://github.com/Mhm0ud-Ab0l3ta/ctf-lab) | Research sandbox — exploit chains, reversing notes | Python | ★ |
-| [automation-pack](https://github.com/Mhm0ud-Ab0l3ta/automation-pack) | Recon and reporting automation tooling | Go | ★ |
+| [dfir-toolkit](https://github.com/Mhm0ud-Ab0l3ta/dfir-toolkit) | Triage scripts, memory parsers, and IOC extraction helpers | Python | ★ |
+| [soc-playbooks](https://github.com/Mhm0ud-Ab0l3ta/soc-playbooks) | Detection rules, alert triage flows, and IR playbooks | Markdown | ★ |
+| [pcap-lab](https://github.com/Mhm0ud-Ab0l3ta/pcap-lab) | Network forensics challenges, analysis notes, and tooling | Python | ★ |
+| [ctf-forensics](https://github.com/Mhm0ud-Ab0l3ta/ctf-forensics) | Blue team CTF writeups — forensics, DFIR, log analysis | Markdown | ★ |
 
 ---
 
 ### `> tail -n 5 writeups.log`
 
+> Full archive on Medium → **[@MAb0EL3TA](https://medium.com/@MAb0EL3TA)**
+
 ```
-[YYYY-MM-DD]  Title of Writeup ........ link
-[YYYY-MM-DD]  Title of Writeup ........ link
-[YYYY-MM-DD]  Title of Writeup ........ link
-[YYYY-MM-DD]  Title of Writeup ........ link
-[YYYY-MM-DD]  Title of Writeup ........ link
+[YYYY-MM-DD]  Title of Writeup ........ https://medium.com/@MAb0EL3TA/...
+[YYYY-MM-DD]  Title of Writeup ........ https://medium.com/@MAb0EL3TA/...
+[YYYY-MM-DD]  Title of Writeup ........ https://medium.com/@MAb0EL3TA/...
+[YYYY-MM-DD]  Title of Writeup ........ https://medium.com/@MAb0EL3TA/...
+[YYYY-MM-DD]  Title of Writeup ........ https://medium.com/@MAb0EL3TA/...
 ```
 
 <details>
@@ -123,8 +124,8 @@ binary exploitation  ██████████░░░░░░░░░�
 <br>
 
 ```
-[YYYY-MM-DD]  Archived Writeup ........ link
-[YYYY-MM-DD]  Archived Writeup ........ link
+[YYYY-MM-DD]  Archived Writeup ........ https://medium.com/@MAb0EL3TA/...
+[YYYY-MM-DD]  Archived Writeup ........ https://medium.com/@MAb0EL3TA/...
 ```
 
 </details>
@@ -147,6 +148,7 @@ binary exploitation  ██████████░░░░░░░░░�
 
 [![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:mahmoudmostafa78900@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b8ff)](https://www.linkedin.com/in/mahmoud-mostafa-b48a48274)
+[![Medium](https://img.shields.io/badge/medium-0d1117?style=for-the-badge&logo=medium&logoColor=aaaaaa)](https://medium.com/@MAb0EL3TA)
 
 </div>
 
@@ -154,6 +156,6 @@ binary exploitation  ██████████░░░░░░░░░�
 
 <div align="center">
 
-<sub><code>built with intent · ships clean · breaks things on purpose</code></sub>
+<sub><code>blue teamer · log whisperer · incident responder</code></sub>
 
 </div>
